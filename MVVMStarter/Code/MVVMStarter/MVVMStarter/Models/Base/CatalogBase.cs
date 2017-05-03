@@ -6,7 +6,7 @@ using MVVMStarter.Persistency.Base;
 namespace MVVMStarter.Models.Base
 {
     /// <summary>
-    /// Base class for a catalog. A catalog is defined as a collection 
+    /// Base class for a catalog. A catalog is defined as a collection this test lala
     /// of domain objects, plus a source for retrieving the domain objects.
     /// </summary>
     /// <typeparam name="TDomainClass">
